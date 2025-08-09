@@ -1,4 +1,2 @@
 Project: Branching Lab
-
-
-Description: initial
+Description: Backend API and database
