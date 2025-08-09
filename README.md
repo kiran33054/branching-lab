@@ -1,2 +1,5 @@
-Project: Branching Lab
-Description: Backend API and database
+<<<<<<< HEAD
+Description: Frontend UI improvements
+=======
+Description: Backend API updates
+>>>>>>> backend
